@@ -433,15 +433,15 @@ flex-wrap: wrap;
 
 #project1{
     background-image: url(./images/projects/Project1.png);
+  }
 
-}
-#project2{
+  #project2{
+    margin-left:120px;
     background-image: url(./images/projects/Project2.png);
-    margin-left: 120px;
-}
-#project3{
+  }
+  #project3{
     background-image: url(./images/projects/Project3.png);
-}
+  }
 #project4{
     margin-left: 120px;
     background-image: url(./images/projects/Project4.png);
